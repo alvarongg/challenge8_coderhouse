@@ -218,3 +218,12 @@ mongo -u pepe -p asd456 --authenticationDatabase admin <3_MuestraProductos.js
 ```bash
 mongo -u pepe -p asd456 --authenticationDatabase admin <10_UpdateStockTo100.js
 ```
+
+
+## Construido con 🛠️
+
+* [Docker :whale: ](https://www.docker.com/)
+* [MongoDB :leaves:](https://www.mongodb.com/es)
+* [Mongo-Express :mag_right:](https://github.com/mongo-express/mongo-express)
+
+
