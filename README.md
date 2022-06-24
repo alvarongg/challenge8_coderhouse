@@ -105,8 +105,6 @@ db.createCollection("productos");
 
 
 
-
-
 ## Despliegue 📦
 
 
